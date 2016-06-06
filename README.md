@@ -29,7 +29,7 @@ Alex Aralis, Edward Ly, Matheu DeWitt, Kenneth Tam, Thomas Worns, Jordan Tompkin
 
 ## License
 
-Copyright (c) 2016 msdewitt LLC, http://coderdeck.com/
+Copyright (c) 2016 tworns LLC
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
