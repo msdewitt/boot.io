@@ -11,6 +11,8 @@ Search for boot.io.
 
 Make sure that your browser can handel Javascript and JQuery. :D
 
+Check out Quintus here: https://github.com/cykod/Quintus and it's tutorial here: http://www.html5quintus.com/guide/core.md#.V1WGvpMrJ-U
+
 ## Contributing
 
 1. Fork it!
