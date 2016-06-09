@@ -1,4 +1,4 @@
-var Q = Quintus().include("Sprites").setup();
+var Q = Quintus().include("Sprites").setup({maximize: true});
 
 Q.Sprite.extend("Ball",{
   init:function(p) {
