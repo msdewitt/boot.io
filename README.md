@@ -27,7 +27,7 @@ Boot.io was created to solve world boredom.
 
 ## Credits
 
-Alex Aralis, Edward Ly, Matheu DeWitt, Kenneth Tam, Thomas Worns, Jordan Tompkins, Leo Welter, Matt Neal, Josh Gould
+Alex Aralis, Edward Ly, Matheu DeWitt, Kenneth Tam, Thomas Worns, Jordan Tompkins, Leo Welter, Matt Neal
 
 ## License
 
